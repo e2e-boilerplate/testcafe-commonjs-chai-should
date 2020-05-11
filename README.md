@@ -2,7 +2,7 @@
     
 # TestCafé Boilerplate
     
-TestCafé end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Chai](https://www.chaijs.com) and Should.
+TestCafé end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/bdd/).
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/testcafe-commonjs-chai-should.git
