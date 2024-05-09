@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/testcafe-commonjs-chai-should/issues"
   },
   "dependencies": {
-    "chai": "4.3.6",
+    "chai": "5.1.1",
     "testcafe": "15.1.317922"
   },
   "description": "TestCafé end-to-end test automation boilerplate. Using Commonjs, Chai and Should.",
